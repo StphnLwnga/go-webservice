@@ -1,8 +1,8 @@
-# Basic Webservice built in Golang
+# Basic Webservice built with Go
 
 ## Run the web service
 
-* If using windows, generate executable using the following command:
+* On Windows, generate executable using the following command:
 	```
 		cd <ProjectLocation>
 
